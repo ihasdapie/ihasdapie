@@ -19,4 +19,4 @@ Connect with me:
 - LinkedIn: [https://www.linkedin.com/in/brianchen28914/](linkedin.com/in/brianchen28914)
 - GitHub: You're here right now!
 
-[![Brian's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Brian's github stats](https://github-readme-stats.vercel.app/api?username=ihasdapie)](https://github.com/anuraghazra/github-readme-stats)
