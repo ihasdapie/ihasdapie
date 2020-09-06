@@ -9,7 +9,7 @@ Check out some of my projects:
 
 Connect with me:
 
-Email: [mailto:brianchen.chen@mail.utoronto.ca](brianchen.chen@mail.utoronto.ca)
-LinkedIn: [https://www.linkedin.com/in/brianchen28914/](linkedin.com/in/brianchen28914)
-GitHub: You're here right now!
+- Email: [mailto:brianchen.chen@mail.utoronto.ca](brianchen.chen@mail.utoronto.ca)
+- LinkedIn: [https://www.linkedin.com/in/brianchen28914/](linkedin.com/in/brianchen28914)
+- GitHub: You're here right now!
 
