@@ -1,4 +1,4 @@
-### Hi!, I'm Brian.
+### Hi! I'm Brian.
 
 I’m a student at the University of Toronto Engineering Science program passionate about **identifying problems** in the world around me and **creating solutions** for them. When I’m not cramming for school, I enjoy cooking and playing badminton.
 
