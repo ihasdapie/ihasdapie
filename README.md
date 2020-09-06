@@ -9,8 +9,8 @@ What I'm working on right now:
 - trying to make it through university!
 
 Check out some of my projects:
-1. GrocerCheck: A web app with live grocery store busyness to help people socially distance effectively during the COVID-19 pandemic.
-2. [chenbrian.ca](https://chenbrian.ca) My personal website & blog
+1. [GrocerCheck](https://grocercheck.ca): A web app with live grocery store busyness to help people socially distance effectively during the COVID-19 pandemic.
+2. [chenbrian.ca](https://chenbrian.ca): My personal website & blog
 3. SSigVer: A siamese neural net for signature authentication.
 
 Connect with me:
