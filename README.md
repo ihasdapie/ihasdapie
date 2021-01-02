@@ -5,7 +5,7 @@ I’m a student at the University of Toronto Engineering Science program passion
 What I'm working on right now: 
 - [the Humerus Bot](https://utmist.gitlab.io/projects/humerus) A NLP NN designed to win Cards Against Humanity, a popular humor-based party game. 
 - Web dev & data collection contracting for BC Parks Foundation: coming soon(?)
-- aUToronto Systems Team: sssh!
+- aUToronto Systems & Simulations team
 - trying to make it through university!
 
 Check out some of my projects:
