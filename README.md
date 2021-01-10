@@ -11,7 +11,8 @@ What I'm working on right now:
 Check out some of my projects:
 1. [GrocerCheck](https://grocercheck.ca): A web app with live grocery store busyness to help people socially distance effectively during the COVID-19 pandemic.
 2. [chenbrian.ca](https://chenbrian.ca): My personal website & blog
-3. SSigVer: A siamese neural net for signature authentication.
+3. Butternut: A chrome extension that uses predictive text generation models to detect ai-generated text
+4. SSigVer: A siamese neural net for signature authentication.
 
 Connect with me:
 
