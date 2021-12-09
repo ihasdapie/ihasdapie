@@ -5,7 +5,7 @@ I’m a student at the University of Toronto Engineering Science program passion
 What I'm working on right now: 
 - aUToronto Systems & Simulations team: Automated testing & evaluation of autonomous vehicles
 - Research @ ISML: I work with accelerating machine learning tasks on memristor crossbars
-- Web dev & data collection for BC Parks Foundation: coming soon(?)
+- Web dev & data collection for BC Parks Foundation: currently in public alpha
 - trying to make it through university!
 
 Check out some of my projects:
